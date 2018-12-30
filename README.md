@@ -1,2 +1,0 @@
-# ChartConf
-Created with CodeSandbox
